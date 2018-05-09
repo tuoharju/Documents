@@ -52,7 +52,7 @@ Toimittajalla on oikeus käsitellä Palveluun tallennettuja tietoja vain Asiakka
 
 Jos Toimittajalla on lakiin perustuva velvollisuus siirtää henkilötietoja EU:n ulkopuolelle tai kansainväliselle järjestölle, ilmoittaa Toimittaja tästä Asiakkaalle ennen siirtoa, ellei kyseisestä lainsäädännöstä johdu, että Toimittaja ei saa ilmoittaa siirrosta.
 
-Toimittaja ilmoittaa tietojen käsittelyä koskevat periaatteet ja kuvauksen tietosuojaselosteessa (Security Policy). Toimittaja ei saa ilman Asiakkaan suostumusta laajentaa tietojen käsittelyä tietosuojaselosteessa ilmoitetusta. Toimittaja on nimennyt tietosuojavastaavan, jonka yhteystiedot on ilmoitettu tietosuojaselosteessa.
+Toimittaja ilmoittaa tietojen käsittelyä koskevat periaatteet ja kuvauksen tietosuojaselosteessa ([Security Policy](https://github.com/FloAppsLtd/Documents/blob/master/SecurityPolicy.md)). Toimittaja ei saa ilman Asiakkaan suostumusta laajentaa tietojen käsittelyä tietosuojaselosteessa ilmoitetusta. Toimittaja on nimennyt tietosuojavastaavan, jonka yhteystiedot on ilmoitettu tietosuojaselosteessa.
 
 ### 5.1 Käsittelyn kohde ja kesto
 Käsittelyn kohteena ovat asiakkaan palveluun tallentamat tiedot.
@@ -61,7 +61,7 @@ Toimittaja käsittelee tietoja tämän sopimuksen voimassa olon ajan.
 
 Sopimuksen päättyessä toimittaja on velvollinen poistamaan Asiakkaan materiaalit Palvelusta. Ellei toisin ole sovittu, Toimittaja poistaa tiedot viimeistään kuukauden kuluessa sopimuksen päättymisestä. Toimittaja ei vastaa rekisteröidylle mahdollisesti aiheutuvista vahingoista, jotka johtuvat tietojen poistamisesta.
 
-Sopimuksen päätyttyä tiedot poistuvat Toimittajan varmuuskopiointijärjestelmistä tietosuojaselosteessa (Security Policy) ilmoitetussa ajassa.
+Sopimuksen päätyttyä tiedot poistuvat Toimittajan varmuuskopiointijärjestelmistä tietosuojaselosteessa ilmoitetussa ajassa.
 
 ### 5.2	Tietoturva ja riskianalyysi
 Asiakas ja Toimittaja toteuttavat henkilötietojen käsittelyn turvallisen käsittelyn varmistamiseksi asianmukaiset tekniset ja organisatoriset toimenpiteet, ottaen huomioon sekä uusimman tekniikan ja toimenpiteiden toteuttamiskustannukset että käsittelyn luonteen, laajuuden, asiayhteyden ja tarkoituksen sekä luonnollisten henkilöiden oikeuksiin ja vapauksiin kohdistuvat riskit.
