@@ -30,7 +30,12 @@ For maintaining emailing lists for our current and past clients, as well as pote
 
 Data owned by clients is stored exclusively within the European Economic Area (EEA). However, during email / SMS transmissions, recipient data and messages may be handled outside the EEA.
 
-By using FloMembers membership management and / or FloRoyalties royalty management, customer agrees that Flo Apps Ltd may manage customer's data over the course of the agreement and beyond, until the end of the backup's life cycle. The exact data structure of FloMembers is tailored to client's needs.
+By using FloMembers membership management, FloRoyalties royalty management and / or bespoke database systems to keep personal data, client agrees that Flo Apps Ltd may manage client's data over the course of the agreement and beyond, until the end of the backups' life cycle.
+
+While clients make the final decisions about the data they collect, data saved in database systems provided by Flo Apps typically include
+
+1. such personal data as persons' names and addresses
+1. such categories as "members" and "subscribers"
 
 ## Data procedures
 
@@ -54,26 +59,29 @@ Client data may also be present in
 
 ### Live data and offsite backups
 
-Each live server creates nightly backups of the data. These backups are also copied to an offsite server, in order to provide redundancy.
+Flo Apps Ltd uses servers hosted by the following service providers.
 
  * DigitalOcean (Amsterdam, NL)
    * see https://www.digitalocean.com/security/
-   * offsite backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
+   * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
 
  * Planeetta (Helsinki, FI)
    * see https://www.planeetta.net/palvelin/palvelinkeskus-ja-verkko.html
-   * offsite backups are kept on Planeetta tape drives
+   * offsite FloMembers backups are kept on Planeetta tape drives
 
  * Shellit.org (Ulvila, FI)
    * see https://tavu.io/fi/ominaisuudet
-   * offsite backups are kept on UpCloud
+   * offsite FloMembers backups are kept on UpCloud Helsinki
 
  * UpCloud (Frankfurt, DE; Helsinki, FI; London, UK)
    * see https://www.upcloud.com/documentation/faq/
+   * offsite WordPress backups are kept on ManageWP (https://managewp.com/)
+
+### FloMembers backups
+
+Each live FloMembers server creates nightly backups of the data. These backups are also copied to an offsite server, in order to provide redundancy.
 
 We keep daily, weekly and monthly backups on each live server. Restoring from backups is tested frequently.
-
-WordPress sites are also safecopied to ManageWP infrastructure.
 
 Files are _not_ covered in offsite backups.
 
@@ -292,4 +300,4 @@ You may contact us at any time for requests related to your expanded rights, we 
  
 Flo Apps Ltd is also prepared to accept clients' audit requests as they may arise.
 
-For information concerning Flo Apps's handling of personal data, please contact Flo Apps via email at info@floapps.com
+For information concerning Flo Apps's handling of personal data, please contact Flo Apps via email at feedback@floapps.com
