@@ -157,16 +157,30 @@ All logins are written into a log. Login pages have brute force protection.
 
 Files that are fetched from banks are kept on our servers for approximately 2 months and deleted via CRON operation.
 
-### Google Analytics
+### Facebook
+
+FloMembers users can use their Facebook id's to log in.
+
+### Google
+
+#### Ads
+
+For FloMembers Mini clients, we're using Google AdSense to show ads.
+
+#### Analytics
 
 We're using Google Analytics to
 
 1. gather overall statistics of services' usage
 1. to monitor and compare site loading times
 
+#### Login
+
+FloMembers users can use their Google credentials to log in.
+
 ### Mandrill
 
-We use Mandrill (part of MailChimp) to deliver messages by email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
+We use Mandrill (part of MailChimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
 MailChimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the MailChimp Security page contains a lot of information relevant for both Mandrill and MailChimp: http://mailchimp.com/about/security
 
@@ -196,7 +210,7 @@ We currently use the same API keys for both production and testing. If keys need
 
 1. be deleted in Mandrill panel
 2. new keys must be created in panel
-3. keys must be updated in FloMembers' main configuration file
+3. keys must be updated (e.g. FloMembers main configuration file)
 
 For more information on Mandrill API keys security, see https://kb.mailchimp.com/integrations/api-integrations/about-api-keys
 
@@ -208,17 +222,20 @@ Invoice-related data is transferred to Maventa when e-invoices are sent. Client 
 
 Address data that is fetched from Posti is kept in a text file on our servers for approximately 3 months and deleted when the next address update batch is run.
 
+### Tawk
+
+We are using Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
+
 ### Twilio
 
 FloMembers uses Twilio to deliver SMS's. Flo Apps Ltd and Twilio Inc. have a signed agreement on EC Data Protection.
 
-Twilio maintains a security white paper with details on their security methods https://s3.amazonaws.com/ahoy-assets.twilio.com/Whitepapers/Twilio_Whitepaper_Security-Architecture.pdf. 
-They also include information regarding data handling in their Terms of Service (https://www.twilio.com/legal/tos) and Privacy Policy (https://www.twilio.com/legal/privacy).
+Twilio maintains a security white paper with details on their security methods https://s3.amazonaws.com/ahoy-assets.twilio.com/Whitepapers/Twilio_Whitepaper_Security-Architecture.pdf. Information on data handling can also be found in their Terms of Service (https://www.twilio.com/legal/tos) and Privacy Policy (https://www.twilio.com/legal/privacy).
 
 Summarizing some points regarding data security:
 
-- their physical infrastructure is secured with visitor management, security badges, building entrances, CCTVs and  overall office security. 
-- Twilio also uses AWS data centers and therefore they rely upon the security of Amazon services.
+- their physical infrastructure is secured with visitor management etc. 
+- Twilio uses AWS data centers and therefore they rely upon the security of Amazon services.
 
 In respect to backups, according to their white paper, "Twilio performs regular backups of Twilio account information, [...] and other critical data using Amazon S3 cloud storage. All backups are encrypted in transit and at rest using strong encryption. Backup files are stored redundantly across multiple availability zones and are encrypted."
 
@@ -237,6 +254,10 @@ Flo Apps is using separate API keys for production and testing. If keys need to 
 3. keys must be updated in FloMembers' main configuration file
 
 For more information on Twilio API keys' security, see https://www.twilio.com/docs/api/security
+
+### Twitter
+
+FloMembers users can use their Twitter id's to log in.
 
 ## Procedure for Security Breaches
 
