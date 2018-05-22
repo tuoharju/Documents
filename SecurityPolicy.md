@@ -22,9 +22,11 @@ Under the GDPR regulations, customers have extended rights on how services manag
 
 We store clients' basic contact details in our custom-made Customer Relationship Management (CRM) which runs on UpCloud London.
 
+We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
+
 For project management, we use Freedcamp (https://freedcamp.com), based in the United States.
 
-For maintaining emailing lists for our current and past clients, as well as potential future clients, we use MailChimp whose servers may be located outside the EEA. MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
+To maintain email lists of our current and past clients, as well as potential future clients, we use MailChimp whose servers may be located outside the EEA. MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
 
 # Clients' data
 
