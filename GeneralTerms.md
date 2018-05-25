@@ -50,7 +50,7 @@ Asiakas on asetuksen tarkoittama rekisterinpitäjä, Toimittajan toimiessa tieto
 
 Toimittajalla on oikeus käsitellä Palveluun tallennettuja tietoja vain Asiakkaan kirjallisten ohjeiden mukaisesti ja tämän sopimuksen mukaisiin tarkoituksiin ellei tietosuoja-asetuksesta tai lainsäädännöstä muuta johdu. Tämän sopimuksen ja Toimittajan tietosuojaselosteen sekä Asiakkaan erikseen antamien kirjallisten ohjeiden lisäksi kirjallisina ohjeina pidetään Asiakkaan Palvelussa antamia Palvelun käytön kautta tapahtuvia toimeksiantoja.
 
-Jos Toimittajalla on lakiin perustuva velvollisuus siirtää henkilötietoja EU:n ulkopuolelle tai kansainväliselle järjestölle, ilmoittaa Toimittaja tästä Asiakkaalle ennen siirtoa, ellei kyseisestä lainsäädännöstä johdu, että Toimittaja ei saa ilmoittaa siirrosta.
+Jos soveltuva lainsäädäntö edellyttää, että Toimittaja käsittelee tietoja johonkin muuhun tarkoitukseen, Toimittaja ilmoittaa tästä Asiakkaalle ennen tällaista käsittelyä ellei sanottu lainsäädäntö kiellä etukäteisilmoituksen tekemistä.
 
 Toimittaja ilmoittaa tietojen käsittelyä koskevat periaatteet ja kuvauksen tietosuojaselosteessa ([Security Policy](https://github.com/FloAppsLtd/Documents/blob/master/SecurityPolicy.md)). Toimittaja ei saa ilman Asiakkaan suostumusta laajentaa tietojen käsittelyä tietosuojaselosteessa ilmoitetusta. Toimittaja on nimennyt tietosuojavastaavan, jonka yhteystiedot on ilmoitettu tietosuojaselosteessa.
 
