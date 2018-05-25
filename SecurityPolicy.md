@@ -224,6 +224,10 @@ Invoice-related data is transferred to Maventa when e-invoices are sent. Client 
 
 Address data that is fetched from Posti is kept in a text file on our servers for approximately 3 months and deleted when the next address update batch is run.
 
+### Postituspalvelu Navakka
+
+We are using Postituspalvelu Navakka (http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
+
 ### Tawk
 
 We are using Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
