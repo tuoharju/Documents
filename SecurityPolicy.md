@@ -218,7 +218,11 @@ For more information on Mandrill API keys security, see https://kb.mailchimp.com
 
 ### Maventa
 
-Invoice-related data is transferred to Maventa when e-invoices are sent. Client can delete this data via Maventa panel.
+Invoice-related data is transferred to Maventa (https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
+
+### Paytrail
+
+Our clients use Paytrail (https://www.paytrail.com/) to handle online payments in FloMembers.
 
 ### Posti Group
 
@@ -227,6 +231,10 @@ Address data that is fetched from Posti is kept in a text file on our servers fo
 ### Postituspalvelu Navakka
 
 We are using Postituspalvelu Navakka (http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
+
+### SendinBlue
+
+We are currently routing some of the email traffic (mainly messages sent from HESK support system) via SendinBlue (https://www.sendinblue.com/).
 
 ### Tawk
 
