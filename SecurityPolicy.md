@@ -275,12 +275,20 @@ FloMembers users can use their Twitter id's to log in.
 
 ## Procedure for Security Breaches
 
- 1. if needed, shut down services to block any further unauthorised use
- 1. determine scope of the breach and its cause
- 1. make sure situation cannot escalate
- 1. block any security holes
- 1. reopen services
- 1. inform clients and / or authorities in an appropriate and prompt manner
+ 1. Determine
+     * Functional impact (To what extent does the incident affect the ability to provide services to users?)
+     * Information impact (Was information compromised in any way and to what extent?)
+     * Recoverability (What kind of resources are needed to recover from the incident?)
+ 1. Containment
+     * if needed, shut down services to block any further unauthorised use
+ 1. Make sure situation cannot escalate
+ 1. Block any security holes
+ 1. Reopen services
+ 1. Inform clients and / or authorities in an appropriate and prompt manner
+ 1. Consider the lessons that can be drawn
+ 1. Write a report
+     * incident details (what happened and when, how the incident was prioritized, what action was taken)
+     * relevant investigation results, e.g. the cause of the incident and its business impact
 
 ### Informing clients
 
