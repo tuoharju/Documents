@@ -153,6 +153,10 @@ Downloads are recorded in each installation and can be traced by user and date.
 
 All logins are written into a log. Login pages have brute force protection.
 
+### Vulnerability scanner
+
+We use Detectify (https://detectify.com/) to run automated vulnerability tests once a week.
+
 ## Third-party integrations
 
 ### Bank transactions
