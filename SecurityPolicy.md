@@ -24,7 +24,7 @@ We store clients' basic contact details in our custom-made Customer Relationship
 
 We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
 
-For project management, we use Freedcamp (https://freedcamp.com), based in the United States.
+For project management, we use [Freedcamp](https://freedcamp.com), based in the United States.
 
 To maintain email lists of our current and past clients, as well as potential future clients, we use MailChimp whose servers may be located outside the EEA. MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
 
@@ -77,7 +77,7 @@ Flo Apps Ltd uses servers hosted by the following service providers.
 
  * UpCloud (Frankfurt, DE; Helsinki, FI; London, UK)
    * see https://www.upcloud.com/documentation/faq/
-   * offsite WordPress backups are kept on ManageWP (https://managewp.com/)
+   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/)
 
 ### FloMembers backups
 
@@ -155,7 +155,7 @@ All logins are written into a log. Login pages have brute force protection.
 
 ### Vulnerability scanner
 
-We use Detectify (https://detectify.com/) to run automated vulnerability tests once a week.
+We use [Detectify](https://detectify.com/) to run automated vulnerability tests once a week.
 
 ## Third-party integrations
 
@@ -188,7 +188,7 @@ FloMembers users can use their Google credentials to log in.
 
 We use Mandrill (part of MailChimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
-MailChimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the MailChimp Security page contains a lot of information relevant for both Mandrill and MailChimp: http://mailchimp.com/about/security
+MailChimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the [MailChimp Security page](http://mailchimp.com/about/security) contains a lot of information relevant for both Mandrill and MailChimp.
 
 MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
 
@@ -198,7 +198,7 @@ Mandrill's infrastructure is composed of three key components:
 2) Application servers, which process and handle everything required for sending and storing data, and
 3) Sending servers, which handle the actual delivery of emails to recipient servers
 
-The relay servers (1) are located around the world in various Amazon-hosted regions to reduce latency. While these servers currently minimally process data to pass along to the application servers, they may in the future handle other functions as well. You can read more about these relay servers on Mandrill blog (http://blog.mandrill.com/making-smtp-fast.html) and current locations are provided on Mandrill status page: http://status.mandrillapp.com
+The relay servers (1) are located around the world in various Amazon-hosted regions to reduce latency. While these servers currently minimally process data to pass along to the application servers, they may in the future handle other functions as well. You can read more about these relay servers on [Mandrill blog](http://blog.mandrill.com/making-smtp-fast.html) and current locations are provided on [Mandrill status page](http://status.mandrillapp.com)
 
 The application servers (2) are also currently hosted via Amazon and are located in the US-West region of the United States.
 
@@ -222,11 +222,11 @@ For more information on Mandrill API keys security, see https://kb.mailchimp.com
 
 ### Maventa
 
-Invoice-related data is transferred to Maventa (https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
+Invoice-related data is transferred to [Maventa](https://maventa.com/) when e-invoices are sent. Client can delete this data via Maventa panel.
 
 ### Paytrail
 
-Our clients use Paytrail (https://www.paytrail.com/) to handle online payments in FloMembers.
+Our clients use [Paytrail](https://www.paytrail.com/) to handle online payments in FloMembers.
 
 ### Posti Group
 
@@ -234,11 +234,11 @@ Address data that is fetched from Posti is kept in a text file on our servers fo
 
 ### Postituspalvelu Navakka
 
-We are using Postituspalvelu Navakka (http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
+We are using [Postituspalvelu Navakka](http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
 
 ### SendinBlue
 
-We are currently routing some of the email traffic (mainly messages sent from HESK support system) via SendinBlue (https://www.sendinblue.com/).
+We are currently routing some of the email traffic (mainly messages sent from HESK support system) via [SendinBlue](https://www.sendinblue.com/).
 
 ### Tawk
 
@@ -248,7 +248,7 @@ We are using Tawk to provide support chat. Tawk keeps email addresses for those 
 
 FloMembers uses Twilio to deliver SMS's. Flo Apps Ltd and Twilio Inc. have a signed agreement on EC Data Protection.
 
-Twilio maintains a security white paper with details on their security methods https://s3.amazonaws.com/ahoy-assets.twilio.com/Whitepapers/Twilio_Whitepaper_Security-Architecture.pdf. Information on data handling can also be found in their Terms of Service (https://www.twilio.com/legal/tos) and Privacy Policy (https://www.twilio.com/legal/privacy).
+Twilio maintains a security white paper with details on their security methods https://s3.amazonaws.com/ahoy-assets.twilio.com/Whitepapers/Twilio_Whitepaper_Security-Architecture.pdf. Information on data handling can also be found in their [Terms of Service](https://www.twilio.com/legal/tos) and [Privacy Policy](https://www.twilio.com/legal/privacy).
 
 Summarizing some points regarding data security:
 
