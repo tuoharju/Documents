@@ -311,8 +311,11 @@ If the above information is not possible to provide in a single message, informa
  1. Check file modifications (specially critical ones like password, hosts, etc.)
  1. Isolated Execution Environments
  1. File Auditing and Intrusion Detection Systems (e.g. Tripwire, Aide)
- 1. Office access control
  1. Run `OWASP ZAP` (see GitHub)
+
+## Flo Apps Ltd premises
+
+Flo Apps' office is restricted to authorized personnel and is monitored with cameras.
 
 ## Flo Apps Ltd employees
 
