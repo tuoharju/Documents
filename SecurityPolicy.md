@@ -280,11 +280,12 @@ FloMembers users can use their Twitter id's to log in.
 ## Procedure for Security Breaches
 
  1. Determine
-     * Functional impact (To what extent does the incident affect the ability to provide services to users?)
-     * Information impact (Was information compromised in any way and to what extent?)
-     * Recoverability (What kind of resources are needed to recover from the incident?)
+     * functional impact (to what extent does the incident affect the ability to provide services to users?)
+     * information impact (was information compromised in any way and to what extent?)
+     * recoverability (what kind of resources are needed to recover from the incident?)
  1. Containment
      * if needed, shut down services to block any further unauthorised use
+     * services can be shut down at employees' own discretion - better safe than sorry
  1. Make sure situation cannot escalate
  1. Block any security holes
  1. Reopen services
