@@ -12,9 +12,7 @@ Flo Apps has taken technical and organisational measures to protect data from lo
 
 ## General Data Protection Regulation (GDPR)
 
-The General Data Protection Regulation (GDPR) will become enforceable on May 25, 2018. It was designed with the purpose of protecting the data privacy and rights of EU citizens and ensuring organizations handle the data privacy in an adequate form. More information on the GDPR at: http://www.eugdpr.org.
-
-We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
+The General Data Protection Regulation (http://www.eugdpr.org) protects rights of EU citizens. We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
 
 Under the GDPR regulations, customers have extended rights on how services manage their data, such as the right to rectification, access, and portability of the data as well as the right to be forgotten.
 
@@ -77,6 +75,7 @@ Flo Apps Ltd uses servers hosted by the following service providers.
 
  * UpCloud (Frankfurt, DE; Helsinki, FI; London, UK)
    * see https://www.upcloud.com/documentation/faq/
+   * offsite FloMembers backups are kept on UpCloud Helsinki
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/)
 
 ### FloMembers backups
