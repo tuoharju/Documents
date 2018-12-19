@@ -307,7 +307,6 @@ If the above information is not possible to provide in a single message, informa
 
 ## Future suggestions
 
- 1. Create separate users for bank data fetch
  1. Check file modifications (specially critical ones like password, hosts, etc.)
  1. Isolated Execution Environments
  1. File Auditing and Intrusion Detection Systems (e.g. Tripwire, Aide)
