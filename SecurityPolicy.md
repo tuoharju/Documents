@@ -65,10 +65,6 @@ Flo Apps Ltd uses servers hosted by the following service providers.
    * see https://www.digitalocean.com/security/
    * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
 
- * Planeetta (Helsinki, FI)
-   * see https://www.planeetta.net/palvelin/palvelinkeskus-ja-verkko.html
-   * offsite FloMembers backups are kept on Planeetta tape drives
-
  * Shellit.org (Ulvila, FI)
    * see https://tavu.io/fi/ominaisuudet
    * offsite FloMembers backups are kept on UpCloud Helsinki
