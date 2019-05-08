@@ -94,11 +94,10 @@ We protect servers in following ways:
  1. We periodically run automated software to scan server security.
  1. Server-wide firewalls are in place to regulate network traffic.
  1. Apache logs are kept for an extended period of time.
+ 1. We are using [Lynis](https://cisofy.com/lynis/) for server hardening.
  1. We are using Apache's `mod_security` module (web application firewall) on Edge server.
  1. We are using Apache's `mod_evasive` module (application layer module) on Edge server to protect against DoS attacks.
  1. Servers are overwritten before shutting them down when we migrate to new servers.
- 
-`Edge` server was tested using the [Lynis](https://cisofy.com/lynis/) tool in late 2017.
 
 Services that are required:
 
