@@ -156,7 +156,7 @@ We use [Detectify](https://detectify.com/) to run automated vulnerability tests 
 
 ### Bank transactions
 
-Files that are fetched from banks are kept on our servers for approximately 2 months and deleted via CRON operation.
+Files that are fetched from banks are kept on our servers for 70 days (on `Core`, 180 days) and deleted via CRON operation.
 
 ### Facebook
 
