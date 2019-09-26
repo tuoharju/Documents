@@ -61,12 +61,15 @@ Client data may also be present in
 
 Flo Apps Ltd uses servers hosted by the following service providers.
 
- * DigitalOcean (Amsterdam, NL)
+ * DigitalOcean (Amsterdam, NL; Frankfurt, DE)
    * see https://www.digitalocean.com/security/
    * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
 
- * Shellit.org (Ulvila, FI)
-   * see https://tavu.io/fi/ominaisuudet
+ * Linode (Frankfurt, DE; London, UK)
+   * see https://www.linode.com/compliance
+
+* Shellit.org (Ulvila, FI)
+   * see https://tavu.io/en/features
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
  * UpCloud (Frankfurt, DE; Helsinki, FI; London, UK)
