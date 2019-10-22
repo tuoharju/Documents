@@ -236,11 +236,11 @@ We are using [Postituspalvelu Navakka](http://www.postituspalvelunavakka.fi/) to
 
 ### SendinBlue
 
-We are currently routing some of the email traffic (mainly messages sent from HESK support system) via [SendinBlue](https://www.sendinblue.com/).
+We are currently routing some 10 - 20 % of the email traffic via [SendinBlue](https://www.sendinblue.com/).
 
 ### Tawk
 
-We are using Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
+We use Tawk to provide support chat. Tawk keeps email addresses for those persons who are logged into FloMembers when using the chat. For more information, see https://www.tawk.to/data-protection/dpa-data-processing-addendum/
 
 ### Twilio
 
