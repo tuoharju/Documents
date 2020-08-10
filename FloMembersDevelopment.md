@@ -1,4 +1,4 @@
-FloMembers-palvelun backlogia ylläpidetään GitHubin Issue Trackerissa. Kaikki asiakkailta tulevat pyynnöt ja ehdotukset kirjataan GitHubiin. Toteutuksessa pyritään priorisoimaan eniten toivottuja ominaisuuksia.
+FloMembers-palvelun backlogia ylläpidetään GitHubin Issue Trackerissa. Kaikki asiakkailta tulevat pyynnöt ja ehdotukset kirjataan GitHubiin. Kehitysjonon hallinnassa priorisoidaan eniten toivottuja ominaisuuksia.
 
 Tarvittaessa Asiakas voi toteuttaa omalla kustannuksellaan normaalin kehitysjonon ohi haluamiaan ominaisuuksia. Näille jatkokehitystoiveille annetaan ennen niiden toteutusta hinta-arvio. Nämä ominaisuudet otetaan joko osaksi sovellusta tai niistä tehdään asiakkaalle räätälöity laajennus tai moduuli.
 
