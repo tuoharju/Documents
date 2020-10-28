@@ -45,7 +45,7 @@ Data is handled as follows:
 
 When we get data from a new client, that data is saved in:
 
- * HESK support system on `UpCloud London` (cron removes the data after a timeout)
+ * HESK support system on `Linode Frankfurt` (cron removes the data after a timeout)
  * personal computers (crons should be used to clean Downloads etc)
  * encrypted TimeMachine backups
  * on `UpCloud Helsinki` (cron cleans)
@@ -97,7 +97,7 @@ We protect servers in following ways:
  1. Operating systems and server software are updated regularly. 
  1. We periodically run automated software to scan server security.
  1. Server-wide firewalls are in place to regulate network traffic.
- 1. Apache logs are kept for an extended period of time.
+ 1. Logs are kept for an extended period of time.
  1. We are using [Lynis](https://cisofy.com/lynis/) for server hardening.
  1. We are using Apache's `mod_security` module (web application firewall) on Edge server.
  1. We are using Apache's `mod_evasive` module (application layer module) on Edge server to protect against DoS attacks.
@@ -150,13 +150,15 @@ Downloads are recorded in each installation and can be traced by user and date.
 
 ### Logins
 
-All logins are written into a log. Login pages have brute force protection.
+All logins are written into a log. Login pages have brute force protection. System enforces medium password strength.
 
 ### Vulnerability scanner
 
 We use [Detectify](https://detectify.com/) to run automated vulnerability tests once a week.
 
 ## Third-party integrations
+
+When available, we use two-factor authentication to log into third party services.
 
 ### Bank transactions
 
@@ -209,8 +211,6 @@ Data may be accessed from Mandrill offices, but is generally not stored there ex
 
 You can read more about new security developments at Mandrill at http://blog.mandrill.com/security-at-mandrill.html
 
-Flo Apps uses two-factor authentication to log into Mandrill / MailChimp account.
-
 We currently use the same API keys for both production and testing. If keys need to be revoked, they must
 
 1. be deleted in Mandrill panel
@@ -261,8 +261,6 @@ Regarding data transfer, Twilio may transfer some data to the US; however, they 
 Twilio API requests are encrypted with SSL, ensuring the security of the data to and from their service.
 
 Information on Twilio's anti-fraud practices can be viewed here: https://www.twilio.com/docs/api/security/anti-fraud
-
-Flo Apps team uses two-factor authentication to log into their Twilio account.
 
 Flo Apps is using separate API keys for production and testing. If keys need to be revoked, they must
 
