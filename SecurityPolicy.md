@@ -103,13 +103,6 @@ We protect servers in following ways:
  1. We are using Apache's `mod_evasive` module (application layer module) on Edge server to protect against DoS attacks.
  1. Servers are overwritten before shutting them down when we migrate to new servers.
 
-Services that are required:
-
- * Apache
- * Beanstalkd
- * MySQL
- * SSH
-
 Services that are running on servers can be listed (`systemctl list-units --type service`) to make sure only necessary ones are running.
 
 ### Databases
