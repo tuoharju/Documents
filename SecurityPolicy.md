@@ -84,8 +84,6 @@ Each live FloMembers server creates nightly backups of the data. These backups a
 
 We keep daily, weekly and monthly backups on each live server. Restoring from backups is tested frequently.
 
-Files are _not_ covered in offsite backups.
-
 ### Closing an installation
 
 If a FloMembers installation is closed, remaining backups are removed gradually over a period of 12 months. In the event client wants to transfer their data from one system to another, data can be downloaded in MS Excel format. In some services this may require Flo Apps' assistance.
