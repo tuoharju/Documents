@@ -28,7 +28,10 @@ To maintain email lists of our current and past clients, as well as potential fu
 
 # Clients' data
 
-Data owned by clients is stored exclusively within the European Economic Area (EEA). However, during email / SMS transmissions, recipient data and messages may be handled outside the EEA.
+Data owned by clients is stored exclusively within the European Economic Area (EEA) with two exceptions:
+
+* during email / SMS transmissions, recipient data and messages may be handled outside the EEA
+* backups for Edge server are kept on Dropbox whose data centers are in the United States
 
 By using FloMembers membership management, FloRoyalties royalty management and / or bespoke database systems to keep personal data, client agrees that Flo Apps Ltd may manage client's data over the course of the agreement and beyond, until the end of the backups' life cycle.
 
