@@ -200,19 +200,9 @@ The application servers (2) are also currently hosted via Amazon and are located
 
 The delivery servers (3) are also located in the United States and are a combination of hosted servers and ones that are managed by Mandrill in a secure facility.
 
-Amazon AWS Identity and Access Management is used for authentication to AWS-related resources. You can read more about Amazon's security policy and practices here: http://aws.amazon.com/security/
+Amazon AWS Identity and Access Management is used for authentication to AWS-related resources. Data may be accessed from Mandrill offices, but is generally not stored there except when transiently stored on individual machines.
 
-Data may be accessed from Mandrill offices, but is generally not stored there except when transiently stored on individual machines. Offices are monitored, and entrances are restricted to authorized personnel, with cameras/CCTV to monitor access as well.
-
-You can read more about new security developments at Mandrill at http://blog.mandrill.com/security-at-mandrill.html
-
-We currently use the same API keys for both production and testing. If keys need to be revoked, they must
-
-1. be deleted in Mandrill panel
-2. new keys must be created in panel
-3. keys must be updated (e.g. FloMembers main configuration file)
-
-For more information on Mandrill API keys security, see https://kb.mailchimp.com/integrations/api-integrations/about-api-keys
+You can read more about security developments at Mandrill at http://blog.mandrill.com/security-at-mandrill.html
 
 ### Maventa
 
@@ -229,6 +219,10 @@ Address data that is fetched from Posti is kept in a text file on our servers fo
 ### Postituspalvelu Navakka
 
 We are using [Postituspalvelu Navakka](http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
+
+### Postmark
+
+We have signed a Data Processing Addendum with Postmark. For more information on Postmark's EU Data Protection policy, see https://postmarkapp.com/eu-privacy
 
 ### SendinBlue
 
@@ -253,17 +247,7 @@ In respect to backups, according to their white paper, "Twilio performs regular 
 
 Regarding data transfer, Twilio may transfer some data to the US; however, they are committed to complying with EU data protection requirements. Protection and safeguards are applied to any transfer. 
 
-Twilio API requests are encrypted with SSL, ensuring the security of the data to and from their service.
-
 Information on Twilio's anti-fraud practices can be viewed here: https://www.twilio.com/docs/api/security/anti-fraud
-
-Flo Apps is using separate API keys for production and testing. If keys need to be revoked, they must
-
-1. be deleted in Twilio panel
-2. new keys must be created in panel
-3. keys must be updated in FloMembers' main configuration file
-
-For more information on Twilio API keys' security, see https://www.twilio.com/docs/api/security
 
 ### Twitter
 
