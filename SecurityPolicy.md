@@ -147,9 +147,12 @@ Downloads are recorded in each installation and can be traced by user and date.
 
 All logins are written into a log. Login pages have brute force protection. System enforces medium password strength.
 
-### Vulnerability scanner
+### Vulnerability scanners
 
-We use [Detectify](https://detectify.com/) to run automated vulnerability tests once a week.
+We use two vulnerability scanners:
+
+1. [Detectify](https://detectify.com/) runs automated vulnerability tests once a week.
+1. [Intruder](https://www.intruder.io/) runs a full scan once a month and ad hoc tests whenever new threats emerge.
 
 ## Third-party integrations
 
