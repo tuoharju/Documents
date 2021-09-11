@@ -1,6 +1,6 @@
 # Yleistä
 
-Järjestelmän täyttää WCAG 2.1 AA -kriteerit vuoden 2021 loppuun mennessä. Erityisesti kontrasteja on muutettu täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
+FloMembers täyttää WCAG 2.1 AA -kriteerit vuoden 2021 loppuun mennessä. Erityisesti kontrasteja on muutettu täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
 
 Järjestelmässä voi liikkua näppäinkomentojen avulla. Virheelliset tiedot osoitetaan värien lisäksi myös sanallisin ohjein. Järjestelmä on toteutettu yleisesti käytettyjen konventioiden ja koodikirjastojen avulla.
 
