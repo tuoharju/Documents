@@ -16,6 +16,12 @@ Ohjelmistoa on lisäksi testattu online-palveluiden, selainlaajennusten ja konee
 
 Käytettävyyden koneellinen testaus suoritetaan kerran kuukaudessa.
 
+Käyttöönottoprojektien yhteydessä tehtävästä käyttäjäkokemuksen testauksesta sovitaan erikseen. Tämä testaus voidaan tehdä joko
+
+- Asiakkaan ja Toimittajan yhteistyönä
+
+- kolmansien osapuolien välityksellä
+
 # Osaamisen vahvistaminen
 
 Henkilöstön osaamista on vahvistettu muun muassa Suomen WordPress-tapahtumissa. Samoin aiheeseen liittyvät verkkosivustot ovat ahkerassa käytössä (esimerkiksi saavutettavuusvaatimukset.fi).
