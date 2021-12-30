@@ -52,7 +52,6 @@ When we get data from a new client, that data is saved in:
  * HESK support system on `Linode Frankfurt` (cron removes the data after a timeout)
  * personal computers (crons should be used to clean Downloads etc)
  * encrypted TimeMachine backups
- * on `UpCloud Helsinki` (cron cleans)
  * production server (cron cleans backups)
  * offsite backups (and, in the case of `edge` server, mirrored back to Dropbox + TimeMachine)
 
