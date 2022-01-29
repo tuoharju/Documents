@@ -67,19 +67,20 @@ Flo Apps Ltd uses servers hosted by following service providers.
  * DigitalOcean (Amsterdam, NL; Frankfurt, DE)
    * see https://www.digitalocean.com/security/
    * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
+   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
 
  * Linode (Frankfurt, DE; London, UK)
    * see https://www.linode.com/compliance
+   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
 
  * Shellit.org (Ulvila, FI)
    * see https://tavu.io/en/features
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
- * UpCloud (Frankfurt, DE; Helsinki, FI; London, UK)
+ * UpCloud (Helsinki, FI)
    * see https://www.upcloud.com/documentation/faq/
-   * Helsinki servers use FI-HEL2 (Telia Helsinki Data Center; ISO 27001 certification for security standards) 
+   * FI-HEL2 is located at Telia Helsinki Data Center with ISO 27001 certification for security standards
    * offsite FloMembers backups are kept on UpCloud Helsinki
-   * offsite WordPress backups are kept on [ManageWP](https://managewp.com/)
 
 ### FloMembers backups
 
