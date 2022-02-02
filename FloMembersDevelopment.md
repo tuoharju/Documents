@@ -12,3 +12,26 @@ Jatkokehitykseen sovellettavat sopimusehdot ovat
 
  * IT2018 YSE – Yleiset sopimusehdot
  * IT2018 EKT – Erityisehtoja ohjelmistojen toimituksista ketterillä menetelmillä 
+
+## Tehtävänjako
+
+Ylläpitovaiheen aikana tyypillinen tehtävänjako on seuraavanlainen:
+
+Toimittaja
+
+- tukipalvelun tarjoaminen
+- ongelmatilanteiden ratkaisu
+- palvelun tietoturvan koneellinen valvonta ja vahvistaminen
+- sovelluksen jatkokehitys
+- pienkehitystyöt asiakkaiden tilauksista
+- yleisten ja asiakaskohtaisten koulutusten järjestäminen
+- asiakaspalaverien järjestäminen
+- muutoksista tiedottaminen muun muassa uutiskirjeen kautta
+
+Asiakas
+
+- ongelmatilanteista raportoiminen
+- pienkehitystöiden tilaukset
+- osallistuminen koulutuksiin
+- osallistuminen palavereihin
+- jatkokehityskohteiden ehdottaminen
