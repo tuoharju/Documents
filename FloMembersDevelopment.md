@@ -2,9 +2,7 @@ FloMembers-palvelun backlogia ylläpidetään GitHubin Issue Trackerissa. Kaikki
 
 Tarvittaessa Asiakas voi toteuttaa omalla kustannuksellaan normaalin kehitysjonon ohi haluamiaan ominaisuuksia. Näille jatkokehitystoiveille annetaan ennen niiden toteutusta hinta-arvio. Nämä ominaisuudet otetaan joko osaksi sovellusta tai niistä tehdään asiakkaalle räätälöity laajennus tai moduuli.
 
-Mahdollisista lisätöistä Toimittaja laskuttaa hinnastonsa mukaisesti (100 € + alv / tunti).
-
-Lisätöistä sovitaan kirjallisesti HESK-tukijärjestelmän kautta. Töille annetaan hinta-arvio ennen niiden aloittamista.
+Lisätöistä sovitaan kirjallisesti HESK-tukijärjestelmän kautta. Töille annetaan hinta-arvio ennen niiden aloittamista. Toimittaja laskuttaa töistä hinnastonsa mukaisesti (100 € + alv / tunti).
 
 Jos useampi asiakas on jättänyt samaa ominaisuutta koskevan jatkokehityspyynnön, kustannuksia voidaan jakaa näiden asiakkaiden kesken.
 
