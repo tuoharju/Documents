@@ -225,7 +225,7 @@ Tähän sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat rat
 Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan ensisijaisesti pääsopimusasiakirjaan kirjattuja ehtoja ja sen jälkeen näitä Palvelun ehtoja.
 
 ## 20  EHTOJEN VOIMASSAOLO JA MUUTTAMINEN
-Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista sähköpostitse vähintään kaksi kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
+Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista vähintään kaksi kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
 
 Nämä ehdot tulevat voimaan 01.05.2022 ja ovat voimassa toistaiseksi.
 
