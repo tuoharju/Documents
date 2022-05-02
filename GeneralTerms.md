@@ -182,7 +182,7 @@ Jos sopimuksen ennenaikainen päättyminen johtuu toisen sopijapuolen sopimusrik
 
 Toimittajan vastuu rajoittuu kaikissa tapauksissa korkeintaan kuluvalle sopimuskaudelle kohdistuviin Palvelun käytöstä maksettuihin maksuihin.
 
-Toimittajan palvelimilla tuotettavat Palvelut sekä niihin lähetetty materiaali varmuuskopioidaan säännöllisesti. Koska kyseessä ei kuitenkaan ole varsinainen tiedonvarmennuspalvelu, vastaa Asiakas omia tietojaan ja tiedostojaan koskevien varmuuskopioiden ottamisesta sekä niiden toimivuuden tarkastamisesta. Toimittaja ei vastaa Asiakkaan tietojen tai tiedostojen tuhoutumisesta, katoamisesta tai muuttumisesta ja tästä aiheutuneista vahingoista ja kuluista kuten tiedostojen uudelleen luomisen aiheuttamista kustannuksista.
+Toimittajan palvelimilla tuotettavat Palvelut sekä niihin lähetetty materiaali varmuuskopioidaan säännöllisesti. Toimittaja ei kuitenkaan vastaa Asiakkaan tietojen tai tiedostojen tuhoutumisesta, katoamisesta tai muuttumisesta ja tästä aiheutuneista vahingoista ja kuluista kuten tiedostojen uudelleen luomisen aiheuttamista kustannuksista.
 
 Toimittaja ei vastaa Palvelun kautta välitetyn aineiston mahdollisesta viivästymisestä, muuttumisesta tai katoamisesta aiheutuvista vahingoista.
 
@@ -216,7 +216,7 @@ Irtisanominen on toimitettava kirjallisesti.
 ## 17  ILMOITUKSET
 Asiakkaan tulee lähettää tähän sopimukseen liittyvät ilmoitukset kirjallisesti Toimittajan Sopimuksessa mainittuun tai myöhemmin ilmoitettuun osoitteeseen tai sähköpostiosoitteeseen.
 
-Toimittajan tulee lähettää tätä Sopimusta koskevat kirjalliset ilmoitukset Asiakkaan viimeksi ilmoittamaan posti- tai sähköpostiosoitteeseen. Toimittajan postitse lähettämien ilmoitusten katsotaan tulleen Asiakkaan tietoon seitsemäntenä päivänä niiden lähettämisestä ja sähköpostitse lähetettyjen ilmoitusten niiden lähettämistä seuraavana päivänä.
+Toimittaja lähettää tätä Sopimusta koskevat kirjalliset ilmoitukset Asiakkaan viimeksi ilmoittamaan sähköpostiosoitteeseen. Toimittajan sähköpostitse lähettämien ilmoitusten katsotaan tulleen Asiakkaan tietoon niiden lähettämistä seuraavana päivänä.
 
 ## 18  RIITOJEN RATKAISU JA SOVELLETTAVA LAKI
 Tähän sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat ratkaistaan Helsingin käräjäoikeudessa ellei pakottavasta lainsäädännöstä muuta johdu.
@@ -225,8 +225,8 @@ Tähän sopimukseen sovelletaan Suomen lakia. Sopimuksesta aiheutuvat riidat rat
 Jos Sopimuksen ja sen liitteiden välillä havaitaan ristiriitaa, sovelletaan ensisijaisesti pääsopimusasiakirjaan kirjattuja ehtoja ja sen jälkeen näitä Palvelun ehtoja.
 
 ## 20  EHTOJEN VOIMASSAOLO JA MUUTTAMINEN
-Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista sähköpostitse vähintään kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
+Toimittaja voi muuttaa näitä sopimusehtoja, jolloin Asiakkaalle tiedotetaan uusista sopimusehdoista vähintään kaksi kuukautta ennen niiden voimaanastumista. Jos ehtoja on muutettu Asiakkaan vahingoksi, on Asiakkaalla oikeus irtisanoa Sopimus irtisanomisaikaa noudattamatta.
 
-Nämä ehdot tulevat voimaan 01.12.2020 ja ovat voimassa toistaiseksi.
+Nämä ehdot tulevat voimaan 01.05.2022 ja ovat voimassa toistaiseksi.
 
 Näiden sopimusehtojen tuorein versio on noudettavissa osoitteesta https://github.com/FloAppsLtd/Documents.
