@@ -1,6 +1,6 @@
 # Yleistä
 
-FloMembers täyttää WCAG 2.1 AA -kriteerit vuoden 2021 loppuun mennessä. Erityisesti kontrasteja on säädetty täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
+FloMembers täyttää WCAG 2.1 AA -kriteerit vuoden 2022 loppuun mennessä. Erityisesti kontrasteja on säädetty täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
 
 Järjestelmässä voi liikkua näppäinkomentojen avulla. Virheelliset tiedot osoitetaan värien lisäksi myös sanallisin ohjein. Järjestelmä on toteutettu yleisesti käytettyjen konventioiden ja koodikirjastojen avulla.
 
@@ -10,11 +10,11 @@ Käyttäjä voi säätää selaimessaan fontin kokoa ja käyttää myös omaa ty
 
 # Auditoinnit ja testaaminen
 
-Auditoinnit ovat löytäneet joitain käytettävyyteen ja väreihin liittyviä ongelmia. Niistä suurin osa on ratkaistu, loput korjautuvat vuoden 2021 aikana. Järjestelmää ovat auditoineet muun muassa Able Design, Eficode ja Konsepto.
+Auditoinnit ovat löytäneet joitain käytettävyyteen ja väreihin liittyviä ongelmia. Niistä suurin osa on ratkaistu. Järjestelmää ovat auditoineet muun muassa Able Design, Eficode ja Konsepto.
 
 Ohjelmistoa on lisäksi testattu online-palveluiden, selainlaajennusten ja koneellisen testauksen avulla. Koneellinen testaus (`Pa11y Test Suite`) on lisätty osaksi ohjelmiston kehitysprosesseja.
 
-Käytettävyyden koneellinen testaus suoritetaan kerran kuukaudessa.
+Käytettävyyden koneellinen testaus suoritetaan kolmen kuukauden välein.
 
 Käyttöönottoprojektien yhteydessä tehtävästä käyttäjäkokemuksen testauksesta sovitaan erikseen. Tämä testaus voidaan tehdä joko
 
