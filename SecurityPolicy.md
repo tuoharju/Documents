@@ -26,6 +26,10 @@ For project management, we use [Freedcamp](https://freedcamp.com), based in the 
 
 To maintain email lists of our current and past clients, as well as potential future clients, we use MailChimp whose servers may be located outside the EEA. MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
 
+# Security-related data
+
+Our systems save such security-related data as logins and IP addresses. This data is deleted programmatically after a delay.
+
 # Clients' data
 
 Data owned by clients is stored exclusively within the European Economic Area (EEA) with these exceptions:
