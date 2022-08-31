@@ -57,7 +57,7 @@ When we get data from a new client, that data is saved in:
  * personal computers (crons should be used to clean Downloads etc)
  * encrypted TimeMachine backups
  * production server (cron cleans backups)
- * offsite backups (and, in the case of `edge` server, mirrored back to Dropbox + TimeMachine)
+ * offsite backups
 
 Client data may also be present in
 
