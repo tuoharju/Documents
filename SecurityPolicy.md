@@ -170,6 +170,16 @@ Files that are fetched from banks are kept on our servers for 70 days (on `Core`
 
 FloMembers users can use their Facebook id's to log in.
 
+### GatewayAPI
+
+We deliver SMS's via [GatewayAPI](https://gatewayapi.com/). They store the SMS messages for 30 days to display logs of sent messages.
+
+The processing includes the following data about data subjects:
+
+* telephone number
+* message content
+* sending organization
+
 ### Google
 
 #### Ads
@@ -241,20 +251,9 @@ We use Tawk to provide support chat. Tawk keeps email addresses for those person
 
 ### Twilio
 
-FloMembers uses Twilio to deliver SMS's. Flo Apps Ltd and Twilio Inc. have a signed agreement on EC Data Protection.
+Ad hoc SMS's may be sent via [Twilio](https://twilio.com/). Flo Apps Ltd and Twilio Inc. have a signed agreement on EC Data Protection.
 
-Twilio maintains a security white paper with details on their security methods https://s3.amazonaws.com/ahoy-assets.twilio.com/Whitepapers/Twilio_Whitepaper_Security-Architecture.pdf. Information on data handling can also be found in their [Terms of Service](https://www.twilio.com/legal/tos) and [Privacy Policy](https://www.twilio.com/legal/privacy).
-
-Summarizing some points regarding data security:
-
-- their physical infrastructure is secured with visitor management etc. 
-- Twilio uses AWS data centers and therefore they rely upon the security of Amazon services.
-
-In respect to backups, according to their white paper, "Twilio performs regular backups of Twilio account information, [...] and other critical data using Amazon S3 cloud storage. All backups are encrypted in transit and at rest using strong encryption. Backup files are stored redundantly across multiple availability zones and are encrypted."
-
-Regarding data transfer, Twilio may transfer some data to the US; however, they are committed to complying with EU data protection requirements. Protection and safeguards are applied to any transfer. 
-
-Information on Twilio's anti-fraud practices can be viewed here: https://www.twilio.com/docs/api/security/anti-fraud
+During SMS delivery, Twilio may transfer data to the US; however, they are committed to complying with EU data protection requirements. Protection and safeguards are applied to any transfer. 
 
 ### Twitter
 
