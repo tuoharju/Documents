@@ -18,13 +18,13 @@ Under the GDPR regulations, customers have extended rights on how services manag
 
 # Data in CRM, project management, and emailing lists
 
-We store clients' basic contact details in our custom-made Customer Relationship Management (CRM) which runs on UpCloud London.
+We store clients' basic contact details in [FloMembers](https://flomembers.com).
 
 We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
 
 For project management, we use [Freedcamp](https://freedcamp.com), based in the United States.
 
-To maintain email lists of our current and past clients, as well as potential future clients, we use MailChimp whose servers may be located outside the EEA. MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
+To maintain email lists of our current and past clients, as well as potential future clients, we use Mailchimp whose servers may be located outside the EEA. Mailchimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them. See https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation
 
 # Security-related data
 
@@ -35,7 +35,6 @@ Our systems save such security-related data as logins and IP addresses. This dat
 Data owned by clients is stored exclusively within the European Economic Area (EEA) with these exceptions:
 
 * during email transmissions, recipients' email addresses and email content may be handled outside the EEA
-* during SMS transmissions, recipients' phone numbers and SMS content are handled outside the EEA
 * backups for Edge server are kept on Dropbox whose data centers are in the United States
 
 By using FloMembers membership management, FloRoyalties royalty management and / or bespoke database systems to keep personal data, client agrees that Flo Apps Ltd may manage client's data over the course of the agreement and beyond, until the end of the backups' life cycle.
@@ -201,7 +200,7 @@ FloMembers users can use their Google credentials to log in.
 
 We use Mandrill (part of Mailchimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
-Mailchimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the [Mailchimp Security page](http://mailchimp.com/about/security) contains information relevant for both Mandrill and Mailchimp.
+Mailchimp Terms of Use and Privacy Policy cover how Mailchimp manages and handles data and what commitments they make in terms of data. Additionally, the [Mailchimp Security page](http://mailchimp.com/about/security) contains information relevant for both Mandrill and Mailchimp.
 
 Mailchimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
 
