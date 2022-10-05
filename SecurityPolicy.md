@@ -18,7 +18,7 @@ Under the GDPR regulations, customers have extended rights on how services manag
 
 # Data in CRM, project management, and emailing lists
 
-We store clients' basic contact details in [FloMembers](https://flomembers.com).
+We store clients' basic contact details in [FloMembers](https://flomembers.fi).
 
 We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
 
