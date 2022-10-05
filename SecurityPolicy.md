@@ -199,11 +199,11 @@ FloMembers users can use their Google credentials to log in.
 
 ### Mandrill
 
-We use Mandrill (part of MailChimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
+We use Mandrill (part of Mailchimp) to deliver email. Full content of the messages is kept on Mandrill servers for 3 days, detailed information about sent messages for 30 days and bounced data for 90 days.
 
-MailChimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the [MailChimp Security page](http://mailchimp.com/about/security) contains a lot of information relevant for both Mandrill and MailChimp.
+Mailchimp Terms of Use and Privacy Policy cover how MailChimp manages and handles data and what commitments they make in terms of data. Additionally, the [Mailchimp Security page](http://mailchimp.com/about/security) contains information relevant for both Mandrill and Mailchimp.
 
-MailChimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
+Mailchimp has certified to the EU-U.S. Privacy Shield Framework and we have signed a Customer EU Data Processing Addendum with them.
 
 Mandrill's infrastructure is composed of three key components:
 
@@ -211,15 +211,13 @@ Mandrill's infrastructure is composed of three key components:
 2) Application servers, which process and handle everything required for sending and storing data, and
 3) Sending servers, which handle the actual delivery of emails to recipient servers
 
-The relay servers (1) are located around the world in various Amazon-hosted regions to reduce latency. While these servers currently minimally process data to pass along to the application servers, they may in the future handle other functions as well. You can read more about these relay servers on [Mandrill blog](http://blog.mandrill.com/making-smtp-fast.html) and current locations are provided on [Mandrill status page](http://status.mandrillapp.com)
+The relay servers (1) are located around the world in various Amazon-hosted regions to reduce latency.
 
 The application servers (2) are also currently hosted via Amazon and are located in the US-West region of the United States.
 
 The delivery servers (3) are also located in the United States and are a combination of hosted servers and ones that are managed by Mandrill in a secure facility.
 
 Amazon AWS Identity and Access Management is used for authentication to AWS-related resources. Data may be accessed from Mandrill offices, but is generally not stored there except when transiently stored on individual machines.
-
-You can read more about security developments at Mandrill at http://blog.mandrill.com/security-at-mandrill.html
 
 ### Maventa
 
