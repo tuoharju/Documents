@@ -1,6 +1,6 @@
 # Yleistä
 
-FloMembers täyttää WCAG 2.1 AA -kriteerit vuoden 2022 loppuun mennessä. Erityisesti kontrasteja on säädetty täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
+FloMembers täyttää WCAG 2.1 AA -kriteerit vuoden 2023 kuluessa. Erityisesti kontrasteja on säädetty täyttämään EU:n saavutettavuusdirektiivin vaatimukset.
 
 Järjestelmässä voi liikkua näppäinkomentojen avulla. Virheelliset tiedot osoitetaan värien lisäksi myös sanallisin ohjein. Järjestelmä on toteutettu yleisesti käytettyjen konventioiden ja koodikirjastojen avulla.
 
@@ -24,4 +24,4 @@ Käyttöönottoprojektien yhteydessä tehtävästä käyttäjäkokemuksen testau
 
 # Osaamisen vahvistaminen
 
-Henkilöstön osaamista on vahvistettu muun muassa Suomen WordPress-tapahtumissa. Samoin aiheeseen liittyvät verkkosivustot ovat ahkerassa käytössä (esimerkiksi saavutettavuusvaatimukset.fi).
+Henkilöstön osaamista on vahvistettu muun muassa Suomen WordPress-tapahtumissa sekä useissa käytettävyysprojekteissa eri yhteistyökumppaneiden kanssa. Samoin aiheeseen liittyvät verkkosivustot ovat ahkerassa käytössä (esimerkiksi saavutettavuusvaatimukset.fi).
