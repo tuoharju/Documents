@@ -12,7 +12,7 @@ Flo Apps has taken technical and organisational measures to protect data from lo
 
 ## General Data Protection Regulation (GDPR)
 
-The General Data Protection Regulation (http://www.eugdpr.org) protects rights of EU citizens. We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
+The General Data Protection Regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679) protects rights of EU citizens. We regularly review and update our agreements, internal processes, procedures, data systems, and documentation to ensure we are in compliance with the GDPR regulations.
 
 Under the GDPR regulations, customers have extended rights on how services manage their data, such as the right to rectification, access, and portability of the data as well as the right to be forgotten.
 
