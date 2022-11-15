@@ -232,15 +232,11 @@ Address data that is fetched from Posti is kept in a text file on our servers fo
 
 ### Postituspalvelu Navakka
 
-We are using [Postituspalvelu Navakka](http://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
+We are using [Postituspalvelu Navakka](https://www.postituspalvelunavakka.fi/) to send letters by post. We have signed a Data Processing Agreement with them.
 
 ### Postmark
 
-We have signed a Data Processing Addendum with Postmark. For more information on Postmark's EU Data Protection policy, see https://postmarkapp.com/eu-privacy
-
-### SendinBlue
-
-We are currently routing some 10 - 20 % of the email traffic via [SendinBlue](https://www.sendinblue.com/).
+We use [Postmark](https://postmarkapp.com/) to deliver email and have signed a Data Processing Addendum with them. For more information on Postmark's EU Data Protection policy, see https://postmarkapp.com/eu-privacy
 
 ### Tawk
 
