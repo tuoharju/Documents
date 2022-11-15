@@ -20,7 +20,7 @@ Under the GDPR regulations, customers have extended rights on how services manag
 
 We store clients' basic contact details in [FloMembers](https://flomembers.fi).
 
-We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://community.frontapp.com/t/x1p4mw/is-front-compliant-with-gdpr for more information.
+We are using FrontApp, based in the United States, to handle some of the email traffic and client communication. FrontApp has completed the EU-U.S. Privacy Shield certifications and we have signed an EU Data Processing Addendum with them. See https://help.front.com/t/m22vyb/front-is-gdpr-ready for more information.
 
 For project management, we use [Freedcamp](https://freedcamp.com), based in the United States.
 
@@ -68,12 +68,12 @@ Client data may also be present in
 Flo Apps Ltd uses servers hosted by following service providers.
 
  * DigitalOcean (Amsterdam, NL; Frankfurt, DE)
-   * see https://www.digitalocean.com/security/
+   * see https://www.digitalocean.com/trust
    * offsite FloMembers backups are kept on Dropbox (see https://www.dropbox.com/help/security/general-data-protection-regulation) and mirrored back to Flo Apps DPO's computer
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
 
  * Linode (Frankfurt, DE; London, UK)
-   * see https://www.linode.com/compliance
+   * see https://www.linode.com/legal-compliance/
    * offsite WordPress backups are kept on [ManageWP](https://managewp.com/) and on Dropbox
 
  * Shellit.org (Ulvila, FI)
@@ -81,7 +81,7 @@ Flo Apps Ltd uses servers hosted by following service providers.
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
  * UpCloud (Helsinki, FI)
-   * see https://www.upcloud.com/documentation/faq/
+   * see https://upcloud.com/resources/faq
    * FI-HEL2 is located at Telia Helsinki Data Center with ISO 27001 certification for security standards
    * offsite FloMembers backups are kept on UpCloud Helsinki
 
